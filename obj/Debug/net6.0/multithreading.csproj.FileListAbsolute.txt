@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\multithreading\multithreading\bin\Debug\net6.0\multithreading.exe
+C:\Users\Toshiba\source\repos\multithreading\multithreading\bin\Debug\net6.0\multithreading.deps.json
+C:\Users\Toshiba\source\repos\multithreading\multithreading\bin\Debug\net6.0\multithreading.runtimeconfig.json
+C:\Users\Toshiba\source\repos\multithreading\multithreading\bin\Debug\net6.0\multithreading.dll
+C:\Users\Toshiba\source\repos\multithreading\multithreading\bin\Debug\net6.0\multithreading.pdb
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.dll
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\refint\multithreading.dll
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.pdb
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\multithreading.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\multithreading\multithreading\obj\Debug\net6.0\ref\multithreading.dll
